@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 
 this dasdasdasd
 Git has a mutable index called stage.
-sdasadasdsadsad
+Git is a free software ...
