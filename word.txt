@@ -6,3 +6,5 @@ Git has a mutable index called stage.
 
 Creating a new branch is quick.
 zhang san lis is very good
+
+这是正在开发的工作
